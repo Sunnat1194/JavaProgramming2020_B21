@@ -1,2 +1,4 @@
 # Project exclude paths
 /out/
+/.idea/
+/JavaProgramming2020_B21.iml/
